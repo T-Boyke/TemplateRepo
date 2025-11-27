@@ -115,11 +115,14 @@ Ein Überblick über die wichtigsten Verzeichnisse und Dateien:
 ```
 ### 🚀 Getting Started
 Folge diesen Schritten, um eine lokale Kopie des Projekts zum Laufen zu bringen.
-**Voraussetzungen**
+
+**Voraussetzungen:**
+
 Stelle sicher, dass folgende Tools auf deinem System installiert sind:
-**Git** (Download)
-**[Laufzeitumgebung, z.B. Node.js]** (v20.x oder höher empfohlen)
-**[Paketmanager, z.B. npm]** (v10.x oder höher)
+- **Git** (Download)
+- **[Laufzeitumgebung, z.B. Node.js]** (v20.x oder höher empfohlen)
+- **[Paketmanager, z.B. npm]** (v10.x oder höher)
+
 ```Bash
 npm install npm@latest -g
 ```
