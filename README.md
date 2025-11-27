@@ -1,8 +1,17 @@
 <a name="readme-top"></a>
 
+### 📝 Verwendung dieses Templates
+Nachdem du dieses Template mit dem Button **"Use this template"** erstellt hast, führe folgende Schritte durch:
+
+1. Suche und ersetze alle Vorkommen von `[REPO_NAME]` mit deinem Projektnamen.
+2. Suche und ersetze `[DEIN_USER]` mit deinem GitHub-Username.
+3. Aktualisiere die `package.json` (Name, Version, Autor).
+4. Bearbeite die `.env.example` passend zu deinem Projekt.
+5. Lösche diesen Abschnitt aus der README.
+
 <br />
 <div align="center">
-  <a href="https://github.com/T-Boyke/[REPO_NAME]">
+  <a href="https://github.com/[DEIN_USER]/[REPO_NAME]">
     <img src="docs/assets/logo.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -12,24 +21,24 @@
     <strong>[Ein prägnanter Slogan oder Einzeiler, der das Projekt beschreibt]</strong>
     <br />
     <br />
-    <a href="https://T-Boyke.github.io/[REPO_NAME]"><strong>Dokumentation »</strong></a>
+    <a href="https://[DEIN_USER].github.io/[REPO_NAME]"><strong>Dokumentation »</strong></a>
     <br />
     <br />
     <a href="#-demo">Live Demo</a>
     ·
-    <a href="https://github.com/T-Boyke/[REPO_NAME]/issues/new?template=bug_report.md">Bug melden</a>
+    <a href="https://github.com/[DEIN_USER]/[REPO_NAME]/issues/new?template=bug_report.md">Bug melden</a>
     ·
-    <a href="https://github.com/T-Boyke/[REPO_NAME]/issues/new?template=feature_request.md">Feature anfragen</a>
+    <a href="https://github.com/[DEIN_USER]/[REPO_NAME]/issues/new?template=feature_request.md">Feature anfragen</a>
   </p>
 </div>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/T-Boyke/[REPO_NAME])](https://github.com/T-Boyke/[REPO_NAME]/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/T-Boyke/[REPO_NAME])](https://github.com/T-Boyke/[REPO_NAME]/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/[DEIN_USER]/[REPO_NAME])](https://github.com/[DEIN_USER]/[REPO_NAME]/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/[DEIN_USER]/[REPO_NAME])](https://github.com/[DEIN_USER]/[REPO_NAME]/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![CI Build](https://github.com/T-Boyke/[REPO_NAME]/actions/workflows/ci.yml/badge.svg)](https://github.com/T-Boyke/[REPO_NAME]/actions)
+[![CI Build](https://github.com/[DEIN_USER]/[REPO_NAME]/actions/workflows/ci.yml/badge.svg)](https://github.com/[DEIN_USER]/[REPO_NAME]/actions)
 
 </div>
 
@@ -130,7 +139,7 @@ npm install npm@latest -g
 **Installation**
 1. **Repository klonen**
 ```Bash
-git clone [https://github.com/](https://github.com/)T-Boyke/[REPO_NAME].git
+git clone [https://github.com/](https://github.com/)[DEIN_USER]/[REPO_NAME].git
 cd [REPO_NAME]
 ```
 2. **Abhängigkeiten installieren** Wir nutzen ein Makefile zur Vereinfachung (siehe unten), oder Standard-Befehle:
@@ -224,7 +233,7 @@ Veröffentlicht unter der MIT Lizenz. Siehe LICENSE für weitere Informationen.
 
 ### 📞 Kontakt & Support
 Projekt Maintainer: [Dein Name] - [verdächtiger Link entfernt]
-Projekt Link: https://github.com/T-Boyke/[REPO_NAME]
+Projekt Link: https://github.com/[DEIN_USER]/[REPO_NAME]
 
 <br />
 
